@@ -1,0 +1,7 @@
+Exemple pour récupéré les données RFID avec C#
+
+http://www.c-sharpcorner.com/blogs/rfid-programming1
+
+https://www.youtube.com/watch?v=NaDrt-rH5JY
+
+https://create.arduino.cc/projecthub/deligence-technologies/arduino-interface-with-mysql-for-storing-rfid-access-details-a5b337

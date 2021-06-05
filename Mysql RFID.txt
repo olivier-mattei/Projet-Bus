@@ -1,0 +1,5 @@
+Exemple pour récupéré les données RFID avec C#
+
+http://www.c-sharpcorner.com/blogs/rfid-programming1
+
+https://www.youtube.com/watch?v=NaDrt-rH5JY

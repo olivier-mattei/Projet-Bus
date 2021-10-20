@@ -1,0 +1,6 @@
+Visual Studio(c'est a peut prés ce que je dirai a l'orale demain)
+
+Visual Studio est un logiciel de porgrommation comprenant Visual Basic ,C et C++,ect....
+Sur lesquelle pour Serialget et ReadWriter(mes 2 programme) j'utilise L'IDE Arduino 1.6 et 1.9 mais aussi 
+Visual Micro qui est une extension pour les cartes arduino me permetant d'inclure des bibliothéques Arduino 
+et de selectioner la carte arduino que j'utilise sela permet de compile le programme pour la carte .
